@@ -5,10 +5,10 @@
 ### CDN
 
 ```js
-<script src='https://cdn.jsdelivr.net/gh/lullaby6/toggle-switch.js/toggle-switch.cdn.js'></script>
+<script src='https://cdn.jsdelivr.net/gh/lullaby6/toggle-switch.js/toggle-switch.js'></script>
 ```
 
-or <a href="https://cdn.jsdelivr.net/gh/lullaby6/toggle-switch.js/toggle-switch.cdn.js" target="_blank">Download</a>
+or <a href="https://cdn.jsdelivr.net/gh/lullaby6/toggle-switch.js/toggle-switch.js" target="_blank">Download</a>
 
 ## Usage
 
